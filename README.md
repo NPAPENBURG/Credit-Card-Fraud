@@ -1,2 +1,1 @@
-# Credit-Card-Fraud
- Credit Card Detection
+Credit Card Fraud Detection using Machine Learning
